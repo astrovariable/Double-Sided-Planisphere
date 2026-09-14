@@ -1,1 +1,2 @@
 # Double-Sided-Planisphere
+A four-part printable star finder built on the Taki two-map system: instead of squeezing the whole sky onto one disc, the sky is split into a northern map and a southern map, each with its own horizon cover. A single-disc planisphere has to stretch the far half of the sky badly to fit it on a flat circle, so constellations near the horizon come out distorted and hard to match with the real sky. Splitting the sky in two keeps the shapes close to correct from the zenith right down to the horizon on both sides.
